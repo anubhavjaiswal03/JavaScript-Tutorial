@@ -1,0 +1,28 @@
+.container{
+  max-width: 600px;
+}
+.btn{
+  background: #43d9be;
+  color: white;
+  outline: none !important;
+  box-shadow: none !important;
+}
+.btn:focus{
+  outline: none !important;
+}
+.username{
+  font-weight: bold;
+  color: #1a8b77;
+}
+.time{
+  font-size: 0.7em;
+  color: #83c7ba;
+}
+.update-msg{
+  text-align: center;
+  margin: 20px, auto;
+}
+.selected-room{
+  color: black;
+  font-weight: bold;
+}
